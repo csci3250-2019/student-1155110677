@@ -10,7 +10,7 @@
 - Prof. Michael R. Lyu: hahaha
 
 ### **My name is Sin Yi, a little potato.**
-![alt text](https://github.com/csci3250-2019/student-1155110677/blob/master/potato.PNG)
+![alt text](https://github.com/csci3250-2019/student-1155110677/blob/master/potato.jpg)
 comic by ShunEmily: https://goo.gl/JJ37RM
 
 ## Command used
