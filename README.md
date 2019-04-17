@@ -13,5 +13,12 @@
 ![alt text](https://github.com/csci3250-2019/student-1155110677/blob/master/potato.jpg)
 - comic by ShunEmily: https://goo.gl/JJ37RM
 
+### **I like...**
+- "Hi"
+- Drawing
+- Programing
+- Sleeping
+- OHO
+
 ## Command used
 ![alt text](https://github.com/csci3250-2019/student-1155110677/blob/master/01.PNG)
