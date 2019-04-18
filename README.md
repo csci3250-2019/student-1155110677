@@ -20,5 +20,10 @@
 - Sleeping
 - OHO
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 ## Command used
 ![alt text](https://github.com/csci3250-2019/student-1155110677/blob/master/01.PNG)
