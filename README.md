@@ -20,10 +20,13 @@
 - Sleeping
 - OHO
 
-Markdown | Less | Pretty
+### **My favourite Prof./Dr.**
+
+Name | Star | Reason
 --- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+*Jimmy* | `****` | **Very Cute**
+*William* | `*****` | **kind**
+*Eric Yu* | `***` | **He faked me not good.**
 
 ## Command used
 ![alt text](https://github.com/csci3250-2019/student-1155110677/blob/master/01.PNG)
